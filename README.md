@@ -4,4 +4,4 @@ I'm a Computer Science Engineering student with a minor in Adaptive AI, driven b
 <br>
 ### 📊 My GitHub Stats
 <br>
-[![Ritika's GitHub stats](https://github-readme-stats.vercel.app/api?username=sleuthsister&hide=stars,prs&show_icons=true&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Ritika's GitHub stats](https://github-readme-stats.vercel.app/api?username=sleuthsister)](https://github.com/anuraghazra/github-readme-stats)
